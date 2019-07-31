@@ -1,0 +1,4 @@
+Target bulan agustus
+- nenperlancar menggunakan ReactJs
+- membuat portofolio
+- masuk belajar/kerja di koding kreasi
